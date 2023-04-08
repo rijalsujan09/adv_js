@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+color: green;
+width: fit-content;
+margin: auto;
+border: 2px solid blue;
+padding: 3px;
+}
+h2{
+    color: greenyellow;
+    width:fit-content;
+    border: 2px solid lightblue;
+    padding: 2px;
+    margin-top: 10px;
+}
+
+p{
+margin-top: 20px;
+font-size: 15px;
+}
